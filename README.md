@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @sLoFiSec - aka Michael. Thank you for visiting my public github repository!
 
-- ♿ Disability advocacy for neurological conditions and invisible conditions is one of my slices of life - besides building and breaking things to create better stability.
+- ♿ Disability advocacy rights for individuals with neurological diversity and invisible disabilities is <3 -  Engineering hardware and administering infrastructure environments are my other joys.
 
-- 🌱 I’m currently expanding my knowledge and applied skillsets of github, powershell, python, ruby on rails, and rhlep.
+- 🌱 I’m currently expanding my knowledge and applied skillsets of github, powershell, python, ruby on rails, and rhlep. 
+
+- 💪 My core strengths are in Microsoft, Azure, and Google Workspace Environments. Microsoft System Administrator and HD/SD for 10+ Years, GWS 5+ Year, Azure 3 Years
+
+- 🧠 Still learning and tinkering with Dev and Prod Build Environments with Oracle's VirtualBox, via CentOS Stream, Arch Linux, and Red Hat Linux Enterprise Products
 
 - 💞️ I’m looking to establish a further presence in, and take product ownership of, Level 1.5 and Level 2 System Administrator responsibilities in DevOps Engineering, Infra-IT Engineering, or SecOps roles.
 
@@ -19,7 +23,7 @@
 -   > 🛰  Job Title, Alternate Title, Area of Expertise, Needed SME/Project Ownership, Existing in-place methodologies, & average call-drivers outside of day to day operations
 
 -   > 💵 Salary - W-2 & 1099c & B2BC is approachable. W-2 pref.
--   
+
 -   > ⚕   Benefits packages, if any. Everything paid for would be nice.
 
 -   > 🏢 On-site, Remote, or Hybrid-office status (4/7/22 per 2nd PfA Booster, fully vaccinated - 4 total CV-19 shots, Remote is preferred, on-site will be considered if salary and benefits are right)
@@ -28,7 +32,7 @@
 
 -   > 📩 if things all check out: expect to hear from me! If you do not hear a public reply within 3-5 business days,  please consider the interest appreciated but politefully declined.
 
-🌍 Keep our planet first - Remote is still the choice of the people - especially those of us that still have to live here in 10+ years.
+🌍 Keep our planet first - Remote is still the choice of the people - especially those of us that still have to live here over the next 10+ years!
 
 <!---
 sLoFiSec/sLoFiSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
