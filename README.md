@@ -14,9 +14,8 @@
 
 -   > Email is screened and will be replied to. This is to ensure that my time and personal information is procurable only if leads are real and are comitted to.
 -     > Violations will not be tolerated. 
--     > Be kind and stay human. 👻 = 🔔. 
--     > {example: 1 = 🔔 = commited re-comp to "public_shame_aws"
--     "/end bell noise .tk1"}
+-     > Be kind and stay human. 👻 = 🔔. 🔔 = Shame
+![](https://github.com/sLoFiSec/first-landing/blob/main/shame.gif)
   
 - 🤖 Requested items if reaching out on business needs: (Any omission of requested values will be politefully declined)
 
