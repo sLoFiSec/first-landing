@@ -19,15 +19,15 @@
   
 - 🤖 Requested items if reaching out on business needs: (Any omission of requested values will be politefully declined)
 
--   > 🛰  Job Title, Alternate Title, Area of Expertise, Needed SME/Project Ownership, Existing in-place methodologies, & average call-drivers outside of day to day operations
+-   > 🛰  Job Title, Scope of Work, Project Management / Product Ownership Responsibilities, & average call-drivers during normal day to day operations
 
 -   > 💵 Salary - W-2 & 1099c & B2BC is approachable. W-2 pref.
 
--   > ⚕   Benefits packages, if any. Everything paid for would be nice.
+-   > ⚕   Benefits packages
 
 -   > 🏢 On-site, Remote, or Hybrid-office status (4/7/22 per 2nd PfA Booster, fully vaccinated - 4 total CV-19 shots, Remote is preferred, on-site will be considered if salary and benefits are right)
 
--   > 📱  A good callback number & email address. I'm HIPAA, GDPR, and SOC2 compliant, with ITIL/0T. **If any documentation is requested, I will provide it in the format that will be requested of me.**
+-   > 📱  A good callback number & email address. I'm HIPAA, GDPR, and SOC2 compliant, with ITIL/0T. **If any documentation is requested, I will provide it in the format that will be requested of me via direct message or email.**
 
 -   > 📩 if things all check out: expect to hear from me! If you do not hear a public reply within 3-5 business days,  please consider the interest appreciated but politefully declined.
 
